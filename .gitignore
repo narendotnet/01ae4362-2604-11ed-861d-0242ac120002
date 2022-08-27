@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/f43514c2-55e1-4402-a251-f741c6051ec9
+/.vs
+/LongestIncreasingSubsequence/bin/Debug/net6.0
+/LongestIncreasingSubsequence/obj
+/LongestIncreasingSubsequence/.vs
+/LongestIncreasingSubsequenceTest/bin/Debug/net6.0
+/LongestIncreasingSubsequenceTest/obj
+/LIS/bin/Debug/net6.0
+/LIS/obj/Debug/net6.0
+/LIS/obj
+/LIS.Test/bin/Debug/net6.0
+/LIS.Test/obj/Debug/net6.0
+/LIS.Test/obj/Release/net6.0
+/LIS.Test/obj
