@@ -13,5 +13,5 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Execute tests
-        working-directory: ./LIS
-        run: dotnet test ~/LIS.Test/LIS.Test.csproj
+        working-directory: ./LIS.Test
+        run: dotnet test LIS.Test.csproj
