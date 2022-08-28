@@ -1,2 +1,12 @@
-# f43514c2-55e1-4402-a251-f741c6051ec9
-f43514c2-55e1-4402-a251-f741c6051ec9
+                                                             CODING CHALLENGE TEST
+            
+This challenge is to develop a function that takes one string input of any number of integers separated by single whitespace. The function then outputs the longest increasing subsequence (increased by any number) present in that sequence. If more than 1 sequence exists with the longest length, output the earliest one. 
+
+-- Addressed the TDD approach
+-- Unit testing has been added
+-- CI-CD with GitHub Actions
+
+TEST:
+dotnet test LIS.Test.csproj
+
+GITHUB used for CI-CD
