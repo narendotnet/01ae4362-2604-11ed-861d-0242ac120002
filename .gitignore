@@ -16,3 +16,12 @@
 /LIS.Test/obj/Debug/net6.0
 /LIS.Test/obj/Release/net6.0
 /LIS.Test/obj
+/bin/Debug
+/LIS
+/LIS.Test/Properties
+/obj/Debug
+/obj/Docker
+/.dockerignore
+/docker-compose.dcproj
+/docker-compose.override.yml
+/docker-compose.yml

@@ -1,1 +1,13 @@
-﻿
+﻿version: "3.4"
+services:
+  test:
+    container_name: test
+    image: mcr.microsoft.com/dotnet/sdk:6.0
+    working_dir: /LIS
+    command:
+      [
+        "--",
+        "dotnet",
+        "test",
+        "../LIS.Test/LIS.Test.csproj"
+      ]

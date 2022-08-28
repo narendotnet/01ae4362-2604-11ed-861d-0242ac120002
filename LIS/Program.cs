@@ -27,7 +27,7 @@
             {
                 Console.WriteLine(ex.ToString());
             }
-            Console.ReadLine();
+            //Console.ReadLine();
         }
 
         static void PrintSubsequence(string result)
